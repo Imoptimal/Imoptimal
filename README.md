@@ -1,11 +1,10 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-### About Me :
+# :cat: About Me:
 
 I am a freelance full-stack developer from Serbia, that's specialized in WordPress Ecosystem:
 - plugin & theme development
 - customization & optimization of websites
 
-### f5fc &nbsp;Languages I use:
+# :computer: Languages I use:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original-wordmark.svg" title="wordpress" alt="wordpress" width="100" height="100"/>&nbsp;
@@ -22,7 +21,7 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 
 --- 
 
-### 🛠 &nbsp; Tools I use:
+# :wrench: Tools I use:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="100" height="100"/>&nbsp;
