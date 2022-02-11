@@ -41,5 +41,5 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 
 # Me on Social Media:
 <p>
-<a><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ivan-maljukanovic/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/></a>&nbsp;
 </p>
