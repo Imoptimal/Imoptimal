@@ -7,16 +7,16 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 # :computer: Languages I use:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original-wordmark.svg" title="wordpress" alt="wordpress" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original-wordmark.svg" title="sass" alt="sass" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="javascript" alt="javascript" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="PHP" alt="PHP" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="100" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original-wordmark.svg" title="wordpress" alt="wordpress" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original-wordmark.svg" title="sass" alt="sass" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="javascript" alt="javascript" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp;
 </p>
 
 --- 
@@ -24,10 +24,10 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 # :wrench: Tools I use:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="inkscape" alt="inkscape" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="trello" alt="trello" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="FileZilla" alt="FileZilla" width="100" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="inkscape" alt="inkscape" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="trello" alt="trello" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="FileZilla" alt="FileZilla" width="50" height="50"/>&nbsp;
 </p>
 
 ---
