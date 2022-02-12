@@ -21,7 +21,7 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 
 --- 
 
-# :wrench: Tools I use:
+# :wrench: Other tools I use:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>
