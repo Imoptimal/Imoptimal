@@ -33,7 +33,7 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 ---
 
 # :fire: My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imoptimal&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imoptimal&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imoptimal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
