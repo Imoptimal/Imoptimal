@@ -7,7 +7,7 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 # :computer: Programming languages & frameworks I use:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/wordpress" title="wordpress" alt="wordpress" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50" height="50"/>
