@@ -25,8 +25,8 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 # :wrench: Other tools I use:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="inkscape" alt="inkscape" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/visualstudiocode" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/inkscape" title="inkscape" alt="inkscape" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="FileZilla" alt="FileZilla" width="50" height="50"/>
 </p>
