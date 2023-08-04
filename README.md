@@ -12,8 +12,8 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 <img src="https://cdn.simpleicons.org/css3" title="CSS" alt="CSS" width="50" height="50"/>
 <img src="https://cdn.simpleicons.org/sass" title="sass" alt="sass" width="50" height="50"/>
 <img src="https://cdn.simpleicons.org/javascript" title="javascript" alt="javascript" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/jquery" title="jquery" alt="jquery" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/php" title="PHP" alt="PHP" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>
