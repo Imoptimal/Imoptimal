@@ -42,7 +42,7 @@ I am a freelance full-stack developer from Serbia, that's specialized in WordPre
 
 # :mailbox: You can also find me on:
 <p>
-<a target="_blank" href="https://www.linkedin.com/in/ivan-maljukanovic/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/></a>
-<a target="_blank" href="https://profiles.wordpress.org/imoptimal/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress.org" alt="wordpress.org" width="50" height="50"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/ivan-maljukanovic/"><img src="https://cdn.simpleicons.org/linkedin" title="LinkedIn" alt="LinkedIn" width="50" height="50"/></a>
+<a target="_blank" href="https://profiles.wordpress.org/imoptimal/"><img src="https://cdn.simpleicons.org/wordpress" title="wordpress.org" alt="wordpress.org" width="50" height="50"/></a>
 <a target="_blank" href="https://twitter.com/imoptimal/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="50" height="50"/></a>
 </p>
